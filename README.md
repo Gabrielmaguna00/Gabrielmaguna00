@@ -15,11 +15,11 @@
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+##### Dato curioso: una vez resolví la pregunta más antigua del mundo con una sola línea de JavaScript
 <!-- wi*quL3fcV -->
 
 ```javascript
-// Which came first: the chicken or the egg?
+// ¿Que fue primero, el huevo o la gallina?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
