@@ -1,16 +1,29 @@
-### Hi there 👋
+## :man_technologist: Hola mundo 👋
+#### Me llamo Gabriel, tengo 22 años y soy programador web Full Stack
+---
 
-<!--
-**Gabrielmaguna00/Gabrielmaguna00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Actualmente estoy aprendiendo React-Native para desarrollo en dispositivos moviles
+- 👯 Busco colaborar en proyectos donde pueda aportar mis conocimientos y a la vez aprender de los demas
+- 💬 Pregúntame sobre desarrollo web, full-stack, logica y sobre cualquier tema
+- 📫 Cómo contactarme: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmaguna-dev/)](https://www.linkedin.com/in/gabrielmaguna-dev/)[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5492235439071&text=Hola!)](https://api.whatsapp.com/send?phone=5492235439071&text=Hola!)
+---
 
-Here are some ideas to get you started:
+#### Algunas de las tecnologías/lenguajes con las que he trabajado :
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
+
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gabrielmaguna00&repo=Gabrielmaguna00&countColorcountColor&countColor=%237B1E7B"/>
