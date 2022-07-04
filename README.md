@@ -2,7 +2,6 @@
 #### Me llamo Gabriel, tengo 22 años y soy programador web Full Stack
 ---
 
-- 🌱 Actualmente estoy aprendiendo React-Native para desarrollo en dispositivos moviles
 - 👯 Busco colaborar en proyectos donde pueda aportar mis conocimientos y a la vez aprender de los demas
 - 💬 Pregúntame sobre desarrollo web, full-stack, logica y sobre cualquier tema
 - 📫 Cómo contactarme: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmaguna-dev/)](https://www.linkedin.com/in/gabrielmaguna-dev/)[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5492235439071&text=Hola!)](https://api.whatsapp.com/send?phone=5492235439071&text=Hola!)
